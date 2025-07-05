@@ -43,15 +43,6 @@ Ben İsmail Bayhan Yaltırık. Konya Teknik Üniversitesi'nde **Yapay Zeka ve Ma
 
 ---
 
-### 🐍 GitHub Aktivite Yılanı
-
-```markdown
-![snake gif](https://github.com/ismai1kd/ismai1kd/blob/output/github-contribution-grid-snake.svg)
-```
-
-⚠️ `snake.svg` dosyasını çalıştırmak için GitHub Actions ile ufak bir ayar yapılması gerekiyor. Dilersen kurulum konusunda yardımcı olabilirim.
-
----
 
 ### 🌐 Web Sitem
 
