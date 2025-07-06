@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.ismailyaltirik.com"><img src="https://img.shields.io/badge/Website-ismailyaltirik.com-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="https://linkedin.com/in/ismailyaltirik"><img src="https://img.shields.io/badge/LinkedIn-ismailyaltirik-0077B5?style=flat-square&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/yaltirik"><img src="https://img.shields.io/badge/LinkedIn-yaltirik-0077B5?style=flat-square&logo=linkedin"></a>
   <a href="mailto:info@ismailyaltirik.com"><img src="https://img.shields.io/badge/E‑mail-info@ismailyaltirik.com-critical?style=flat-square&logo=gmail"></a>
 </p>
 
