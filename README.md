@@ -94,9 +94,9 @@ I strive to build systems not just with code, but with purpose.
 ## 🌐 Contact
 
 - 📍 **Adana, Turkey**
-- 📧 **ismail.yaltirik@gmail.com** | **info@ismailyaltirik.com**
+- 📧 **ismaillyaltirik@gmail.com** | **info@ismailyaltirik.com**
 - 🌐 [Website](https://www.ismailyaltirik.com)
-- 💼 [LinkedIn](https://linkedin.com/in/ismailyaltirik)
+- 💼 [LinkedIn](https://linkedin.com/in/yaltirik)
 - 📸 [Instagram](https://instagram.com/isma1kd)
 - 📹 [YouTube](https://www.youtube.com/@isma1kd)
 
